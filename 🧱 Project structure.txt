@@ -1,0 +1,4 @@
+ec2_github_deployer/
+├── deploy_ec2_with_github.py
+├── requirements.txt
+└── README.md
